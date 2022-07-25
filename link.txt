@@ -16,3 +16,11 @@ salam
 
 link tutorial
 https://www.youtube.com/watch?v=9nWcPPHBzMk&t=821s
+
+
+ubah git 
+$ git remote -v
+$ git remote rm origin
+$ git commit -m "your commit"
+$ git remote add origin https://github.com/user/repo.git
+$ git push -f origin master
