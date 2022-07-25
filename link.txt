@@ -1,0 +1,18 @@
+git remote add origin https://github.com/sodikinnaa/programingteknokrat.git
+
+pc sebrang
+-link perbaikan
+https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote
+
+
+
+git benerin
+git reset --mixed origin/main
+git add .
+git commit -m "This is a new commit for what I originally planned to be amended"
+git push origin main
+
+salam
+
+link tutorial
+https://www.youtube.com/watch?v=9nWcPPHBzMk&t=821s
